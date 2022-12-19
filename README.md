@@ -1,0 +1,1 @@
+Neste exemplo prático vamos aprender como desenvolver uma aplicação móvel utilizando o React Native Framework, bem como fazer uso do coinGecko API, que nos fornece um REST API que nos dá informações sobre mercados de moeda criptográfica como Bitcoin, Ethereum, XRP, entre outros.
